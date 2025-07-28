@@ -8,3 +8,4 @@ ultralytics
 PyQt5
 matplotlib
 pandas
+gunicorn
