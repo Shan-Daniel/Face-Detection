@@ -1,0 +1,10 @@
+flask
+werkzeug
+keras
+numpy
+opencv-python
+pillow
+ultralytics
+PyQt5
+matplotlib
+pandas
